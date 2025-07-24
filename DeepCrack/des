@@ -1,0 +1,1 @@
+include 3 main code which is the base line deepcrack model reimplementing from paper, deepcrack combined mostly show result when changing the backbone VGG16 with ResNet and EfficientNet. Finally the DCUnet-Attention is the final hybrid model. The other DCUnet is for experiment
