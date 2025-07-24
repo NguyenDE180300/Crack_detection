@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+
+dcunet.ipynb
+dcunet-attention.ipynb
+
 # Environment folders
 env/
 .venv/
